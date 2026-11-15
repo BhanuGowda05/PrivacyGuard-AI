@@ -1,4 +1,4 @@
-# 🛡️ PrivacyGuard AI – Autonomous PII Detection & Data Sanitization Firewall
+# 🛡️ PrivacyGuard AI – Automated Personal Data Protection and Sensitive Information Detection System
 
 An AI-powered, privacy-first cybersecurity application designed to detect Personally Identifiable Information (PII), assess privacy risks and automatically sanitize sensitive data from documents and text inputs.
 
