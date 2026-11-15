@@ -43,7 +43,6 @@ The application uses a hybrid detection approach combining spaCy NLP and Regex-b
 | 🎭 Full Redaction | Completely replaces detected sensitive information with labels such as [REDACTED: EMAIL]. |
 | 🛡️ Partial Masking | Hides sensitive characters while preserving readability (e.g. u****@example.com). |
 | 📄 Multi-Format Document Support | Supports PDF, DOCX and TXT document ingestion and sanitized output generation. |
-| 🔐 SHA-256 Fingerprinting | Generates non-reversible document fingerprints for deduplication. |
 | 🎨 Cybersecurity Dashboard | Provides a modern dark-themed interface with privacy monitoring components. |
 
 ---
